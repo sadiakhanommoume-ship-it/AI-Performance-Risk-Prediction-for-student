@@ -1,6 +1,9 @@
 # AI Performance & Risk Prediction System
 
 An end-to-end Machine Learning project that analyzes student academic and behavioral factors to predict final grades and assess academic risk.
+## 🚀 Live Demo
+
+👉 [Try the AI Performance & Risk Prediction System](https://ai-performance-risk-prediction-for-student-97mfbgjmkjcd8rtuslu.streamlit.app/)
 
 ## 📌 Project Overview
 
